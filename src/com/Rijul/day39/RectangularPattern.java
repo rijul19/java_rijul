@@ -9,7 +9,7 @@ public class RectangularPattern {
         for(i=1;i<=b;i++){
             for(int j=1;j<=b;j++){
                 System.out.print("*");
-            }v  n  b
+            }
             System.out.print("\n");
         }
     }
