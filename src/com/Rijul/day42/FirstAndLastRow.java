@@ -15,7 +15,7 @@ public class FirstAndLastRow {
             if(i!=0 && i!=(n-1)){
                 continue;
             }
-            for(int j=0;j<n;j++){
+            for(int j=0;j<n;j++){shfgsu
                 System.out.print(arr[i][j] + " ");
             }
             System.out.println();

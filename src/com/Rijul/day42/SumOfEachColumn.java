@@ -19,4 +19,4 @@ public class SumOfEachColumn {
             System.out.println(sum);
         }
     }
-}
+}dcgvsh

@@ -9,7 +9,7 @@ public class LargestElementIn2D {
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 arr[i][j] = sc.nextInt();
-            }
+            }djsms
         }
         for(int i=0;i<n;i++) {
             int max = arr[i][0];
