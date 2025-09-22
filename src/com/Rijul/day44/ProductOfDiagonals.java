@@ -1,7 +1,6 @@
 package com.Rijul.day44;
 
 import java.util.Scanner;
-
 public class ProductOfDiagonals {
     public static void main(String[] args) {
         int m,n,i,j,prod=1;
