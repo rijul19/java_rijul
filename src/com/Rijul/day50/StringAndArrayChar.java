@@ -14,4 +14,4 @@ public class StringAndArrayChar {
         System.out.println();
         System.out.println(str);
     }
-}
+}.

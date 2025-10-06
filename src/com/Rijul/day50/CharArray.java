@@ -14,4 +14,4 @@ public class CharArray {
             System.out.println(str[i]);
         }
     }
-}
+}.
