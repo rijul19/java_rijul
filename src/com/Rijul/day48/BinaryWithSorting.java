@@ -47,4 +47,4 @@ public class BinaryWithSorting {
             System.out.println("Found at index : " + result);
         }
     }
-}.
+}

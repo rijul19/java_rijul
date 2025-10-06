@@ -8,4 +8,4 @@ public class StringDeclaration {
         System.out.println(str2);
 
     }
-}.
+}

@@ -15,6 +15,6 @@ public class VowelReplacement {
         }
         System.out.println(result);
     }
-}.
+}
 
 
